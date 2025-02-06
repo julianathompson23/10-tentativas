@@ -1,4 +1,4 @@
-alert("oi")
+alert("olá")
 let contador = 1;
 let numero;
 
